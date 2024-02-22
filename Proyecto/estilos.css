@@ -1,0 +1,33 @@
+.body{
+    background-color: #537896;
+    color: #3f5a70;
+}
+.encabezado{
+    background: #3c0bee;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.main{
+    background: #f2f2f2;
+    margin-bottom: 20px;
+}
+.aside{
+    background: #be3220;
+    color: #c1c8ee;
+}
+.widgets{
+    margin-bottom: 20px;
+}
+.widget{
+    background: #f2f2f2;
+}
+.color{
+    background: #d2d2d2;
+}
+footer{
+    background: #3c0bee;
+    color: #fff;
+}
+.masthead {
+    background-color: #3f5a70;
+  }
